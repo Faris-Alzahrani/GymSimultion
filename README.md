@@ -4,10 +4,7 @@ the program is written in java and doesn't require any dependencies to be instal
 
 this project is developed as a part of the subject EE364.
 
-@authers: 
-      Faris Alzhrani,
-      Mustafa Alhadi,
-      Khalid Alharbi
+@auther: Faris Alzhrani.
       
 when starting the program, the program takes the following inputs from the user: workig duration of the Gym (in hours), maximum number of trainees per group entering the Gym.
 
